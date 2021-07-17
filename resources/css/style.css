@@ -13,13 +13,14 @@ orange color : #e67e22
     box-sizing: border-box;
 }
  
-html{
+html,body{
     background-color: #fff;
     color: rgb(77, 75, 75);
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
+    overflow-x: hidden;
     
 }
 
